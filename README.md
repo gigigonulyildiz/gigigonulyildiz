@@ -48,6 +48,15 @@ Performed governance, risk, and compliance analysis aligned with NIST, FISMA, PC
 ### Azure Cloud Security Assessment & Remediation
 Executed enterprise Azure cloud security governance project focused on IAM remediation, RBAC optimization, Key Vault security, resource governance, and backup resilience.
 
+### Identity and Access Management Modernization
+Designed and evaluated a scenario-based enterprise IAM modernization solution using Microsoft Entra ID, MFA, Conditional Access, RBAC, identity lifecycle automation, and Microsoft Sentinel.
+
+### Penetration Testing Engagement Assessment
+Assessed a healthcare penetration testing engagement plan, focusing on scope, rules of engagement, security risks, HIPAA considerations, and NIST SP 800-115.
+
+### Cybersecurity Management and Risk Assessment
+Conducted an enterprise cybersecurity management and risk assessment focused on GRC, PCI DSS, GDPR, security policies, incident response, and business continuity.
+
 ---
 
 ## Technical Skills
