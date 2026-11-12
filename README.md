@@ -1,10 +1,10 @@
 # Hi, I'm Gigi Gonul Yildiz 👋
 
-## Cybersecurity Analyst | Security+ • CySA+ | Cloud Security, SOC, GRC & Risk
+## Cybersecurity Analyst | PenTest+ | CySA+ | Security+ | Cloud Security, IAM, SOC, GRC & Risk
 
 I am a cybersecurity professional with hands-on experience in security operations, threat detection, incident triage, vulnerability management, cloud security governance, and enterprise security architecture. My background combines SOC operations with financial and business risk analysis, allowing me to approach cybersecurity from both technical and organizational perspectives.
 
-Currently pursuing a Master of Science in Cybersecurity & Information Assurance at WGU and actively preparing for CompTIA PenTest+, I am focused on building practical expertise across security operations, governance, cloud security, and offensive security fundamentals.
+I hold a Master of Science in Cybersecurity and Information Assurance from Western Governors University (WGU), along with CompTIA PenTest+, CySA+, and Security+ certifications. My focus includes security operations, threat detection, identity and access management (IAM), cloud security, and governance, risk, and compliance (GRC).
 
 ---
 
@@ -21,6 +21,7 @@ Currently pursuing a Master of Science in Cybersecurity & Information Assurance 
 ---
 
 ## Certifications
+- CompTIA PenTest+
 - CompTIA CySA+
 - CompTIA Security+
 - ISC2 Certified in Cybersecurity (CC)
@@ -30,12 +31,9 @@ Currently pursuing a Master of Science in Cybersecurity & Information Assurance 
 
 ---
 
-## Current Education
-**Western Governors University (WGU)**  
-M.S. Cybersecurity & Information Assurance (In Progress)
-
-**Currently Preparing For:**  
-CompTIA PenTest+
+## Education
+**Western Governors University (WGU)**
+M.S. Cybersecurity & Information Assurance | September 2026
 
 ---
 
@@ -56,7 +54,7 @@ Executed enterprise Azure cloud security governance project focused on IAM remed
 **Security Tools:** QRadar, Splunk, SentinelOne, CrowdStrike, Proofpoint, Tenable Nessus, Armis, Acunetix  
 **Networking & Analysis:** Wireshark, Nmap, TCP/IP, DNS, IDS/IPS, PCAP Analysis  
 **Frameworks:** MITRE ATT&CK, Cyber Kill Chain, NIST, ISO 27001, OWASP Top 10, STRIDE  
-**Cloud & Systems:** Microsoft Azure (RBAC, Key Vault), Windows Security  
+**Cloud & Systems:** Microsoft Azure, Microsoft Entra ID, IAM, RBAC, Conditional Access, MFA, Key Vault, Windows Security 
 **GRC & Risk:** NIST CSF, ISO 27001, NIST 800-53, Third-Party Risk, Compliance Analysis  
 
 ---
